@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rlW9nc2XW5UwB78n4psGyHQTc7orJy/MA6YwpuirwwJR35aY5V88USL/LfRsX8dBuGu7Ynz64qwnhqCSEvsnoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\aguyATM\\loginLastoutput\\loginLastoutput\\loginLastoutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\gunа.gui\\3.0.4.9\\gunа.gui.3.0.4.9.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
